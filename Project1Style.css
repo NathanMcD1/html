@@ -13,12 +13,13 @@ header{
     width: 100%;
     z-index: 1;
     background-color: rgb(27, 27, 27);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 h1{
     color: rgb(100, 185, 100);
     background-color: rgb(0, 50, 0);
     text-align: center;
-    font-family:'Tahoma';
+    font-family: "Poetsen One", sans-serif;
 }
 hr{
     border-color: rgb(100, 185, 100);
@@ -27,6 +28,7 @@ h2{
     color: rgb(100, 185, 100);
     background-color: rgb(0, 50, 0);
     text-align: center;
+    font-family: "Poetsen One", sans-serif;
 }
 #image1{
     display: block;
@@ -48,6 +50,7 @@ h2{
 h3{
     color: rgb(100, 185, 100);
     background-color: rgb(0, 50, 0);
+    font-family: "Poetsen One", sans-serif;
 }
 .Info{
     color: white;
@@ -58,10 +61,12 @@ h3{
     text-align: center;
     padding-left: 30px;
     padding-right: 30px;
+    font-family: "Poetsen One", sans-serif;
 }
 li{
     color: rgb(100, 185, 100);
     text-align: left;
+    font-family: "Poetsen One", sans-serif;
 }
 ul{
     color: rgb(100, 185, 100);
