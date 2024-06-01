@@ -13,13 +13,13 @@ header{
     width: 100%;
     z-index: 1;
     background-color: rgb(27, 27, 27);
-    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 h1{
     color: rgb(100, 185, 100);
     background-color: rgb(0, 50, 0);
     text-align: center;
     font-family: "Poetsen One", sans-serif;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 hr{
     border-color: rgb(100, 185, 100);
@@ -29,6 +29,7 @@ h2{
     background-color: rgb(0, 50, 0);
     text-align: center;
     font-family: "Poetsen One", sans-serif;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 #image1{
     display: block;
@@ -52,6 +53,7 @@ h3{
     background-color: rgb(0, 50, 0);
     text-align: left;
     font-family: "Poetsen One", sans-serif;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 .Info{
     color: white;
@@ -63,21 +65,25 @@ h3{
     padding-left: 30px;
     padding-right: 30px;
     font-family: "Poetsen One", sans-serif;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 li{
     color: rgb(100, 185, 100);
     text-align: left;
     font-family: "Poetsen One", sans-serif;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 ul{
     color: rgb(100, 185, 100);
     line-height: 30px;
     list-style:circle;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 ol{
     color: rgb(100, 185, 100);
     line-height: 30px;
-    list-style:upper-roman
+    list-style:upper-roman;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 a{
     color: rgb(100, 185, 100);
