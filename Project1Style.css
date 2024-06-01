@@ -57,6 +57,10 @@ h3{
     color: rgb(100, 185, 100);
     text-align: center;
 }
+li{
+    color: rgb(100, 185, 100);
+    text-align: left;
+}
 ul{
     color: rgb(100, 185, 100);
     line-height: 30px;
