@@ -4,7 +4,8 @@ body{
 }
 header{
     position: fixed;
-    margin: 0;
+    top: 0;
+    left: 0;
     width: 100%;
     z-index: 1;
     background-color: rgb(27, 27, 27);
