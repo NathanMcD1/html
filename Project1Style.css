@@ -3,7 +3,7 @@ body{
     margin: 75px;
 }
 header{
-    position: sticky;
+    position: fixed;
     margin: 0;
     width: 100%;
     z-index: 1;
