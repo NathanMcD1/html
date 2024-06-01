@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(27, 27, 27);
+    background-image:linear-gradient(rgb(27, 27, 27), rgb(0, 40, 0));
     margin: 75px;
     margin-top: 15px;
 }
