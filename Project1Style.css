@@ -6,6 +6,7 @@ header{
     position: sticky;
     margin: 0;
     width: 100%;
+    z-index: 1;
     background-color: rgb(27, 27, 27);
 }
 h1{
