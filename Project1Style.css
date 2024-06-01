@@ -2,6 +2,7 @@ body{
     background-image:linear-gradient(rgb(27, 27, 27), rgb(0, 35, 0));
     margin: 75px;
     margin-top: 120px;
+    position: relative;
 }
 header{
     position: fixed;
