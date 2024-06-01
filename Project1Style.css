@@ -39,7 +39,7 @@ h2{
 }
 .BigImage:hover{
     transform: scale(1.3);
-    transition: ease-out;
+    transition: ease-in-out;
 }
 h3{
     color: rgb(100, 185, 100);
