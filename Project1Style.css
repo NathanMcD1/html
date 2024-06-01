@@ -30,16 +30,19 @@ h2{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    transform: scale(0.5, 0.5);
 }
 #image3{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    transform: scale(0.5, 0.5);
 }
 #image4{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    transform: scale(0.5, 0.5);
 }
 h3{
     color: rgb(100, 185, 100);
